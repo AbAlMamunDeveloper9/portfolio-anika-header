@@ -1,0 +1,202 @@
+
+
+@media (max-width: 1197px) {
+    .hero-area .contant h1 {
+        font-size: 44px;
+        word-break: break-all;
+      }
+}
+
+@media (max-width: 1016px) {
+    .hero-area .contant h1 {
+        font-size: 38px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width: 952px) {
+    .hero-area .contant p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+}
+@media (max-width: 908px) {
+    .first-area .menu1 ul {
+        display: none;
+    }
+    .hum a img {
+        display: block;
+        padding-top: 17px;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 881px) {
+    .hero-area .contant h1 {
+        font-size: 34px;
+    }
+    .hero-area .image1 img {
+        width: 80%;
+        margin-left: 30px;
+      }
+}
+
+@media (max-width: 796px) {
+    .hero-area .contant h1 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .hero-area .contant p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 789px) {
+    .hero-area .contant .btn2 .hire {
+        padding: 13px 36px;
+        font-size: 15px;
+      }
+    .hero-area .contant .btn2 .cont {
+        padding: 13px 30px;
+        font-size: 15px;
+    }
+}
+@media (max-width: 727px) {
+    .hero-area .contant .btn2 .hire {
+        padding: 12px 30px;
+        font-size: 14px;
+      }
+    .hero-area .contant .btn2 .cont {
+        padding: 12px 20px;
+        font-size: 14px;
+    }
+    .first-area .menu1 .btn1 {
+        padding: 12px 30px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 677px) {
+    .hero-area .contant p {
+        font-size: 12px;
+      }
+}
+
+@media (max-width: 613px) {
+    .hero-area .contant .btn2 .hire {
+        padding: 10px 26px;
+        font-size: 13px;
+      }
+    .hero-area .contant .btn2 .cont {
+        padding: 10px 18px;
+        font-size: 13px;
+    }
+}
+@media (max-width: 599px) {
+    .hero-area .contant h1 {
+        font-size: 23px;
+    }
+    .hero-area .contant p {
+        font-size: 10px;
+      }
+}
+@media (max-width: 565px) {
+    .hero-area .contant h1 {
+        font-size: 20px;
+    }
+    .hero-area .contant .btn2 .hire {
+        padding: 8px 22px;
+        font-size: 11px;
+      }
+    .hero-area .contant .btn2 .cont {
+        padding: 8px 16px;
+        font-size: 11px;
+    }
+    .hero-area .contant p {
+        font-size: 8px;
+        line-height: 18px;
+      }
+}
+
+@media (max-width: 495px) {
+    .hero-area .contant h1 {
+        font-size: 16px;
+    }
+    .hero-area .contant h4 {
+        font-size: 16px;
+      }
+      .hero-area .contant p {
+        font-size: 7px;
+        line-height: 14px;
+      }
+    .hero-area .contant .btn2 .hire {
+        padding: 5px 16px;
+        font-size: 8px;
+      }
+    .hero-area .contant .btn2 .cont {
+        padding: 5px 13px;
+        font-size: 8px;
+    }
+    .first-area .menu1 .btn1 {
+        padding: 12px 25px;
+        font-size: 12px;
+    }
+    .hum a img {
+        margin-right: -15px;
+      }
+}
+
+@media (max-width: 391px) {
+    .hero-area .contant h1 {
+        font-size: 10px;
+        margin-bottom: 4px;
+    }
+    .hero-area .contant h4 {
+        font-size: 10px;
+      }
+      .hero-area .contant p {
+        font-size: 5px;
+        line-height: 11px;
+      }
+    .hero-area .contant .btn2 .hire {
+        padding: 4px 12px;
+        font-size: 5px;
+      }
+    .hero-area .contant .btn2 .cont {
+        padding: 4px 10px;
+        font-size: 5px;
+    }
+    .first-area .menu1 .btn1 {
+        padding: 14px 18px;
+        font-size: 10px;
+    }
+    .hum a img {
+        margin-right: -20px;
+      }
+
+    .first-area .logo1 a {
+      font-size: 22px;
+    }
+    .hero-area .contant .btn2 {
+        gap: 5px;
+        font-size: 16px;
+      }
+      .hero-area {
+        padding-bottom: 20px;
+      }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
